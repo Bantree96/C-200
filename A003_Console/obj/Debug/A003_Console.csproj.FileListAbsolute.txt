@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A003_Console\bin\Debug\A003_Console.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A003_Console\bin\Debug\A003_Console.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A003_Console\bin\Debug\A003_Console.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A003_Console\obj\Debug\A003_Console.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A003_Console\obj\Debug\A003_Console.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A003_Console\obj\Debug\A003_Console.pdb
