@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A008_ConsoleWriteLineMulti\bin\Debug\A008_ConsoleWriteLineMulti.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A008_ConsoleWriteLineMulti\bin\Debug\A008_ConsoleWriteLineMulti.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A008_ConsoleWriteLineMulti\bin\Debug\A008_ConsoleWriteLineMulti.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A008_ConsoleWriteLineMulti\obj\Debug\A008_ConsoleWriteLineMulti.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A008_ConsoleWriteLineMulti\obj\Debug\A008_ConsoleWriteLineMulti.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A008_ConsoleWriteLineMulti\obj\Debug\A008_ConsoleWriteLineMulti.pdb
