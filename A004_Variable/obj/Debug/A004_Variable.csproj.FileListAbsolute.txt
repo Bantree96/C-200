@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A004_Variable\bin\Debug\A004_Variable.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A004_Variable\bin\Debug\A004_Variable.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A004_Variable\bin\Debug\A004_Variable.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A004_Variable\obj\Debug\A004_Variable.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A004_Variable\obj\Debug\A004_Variable.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A004_Variable\obj\Debug\A004_Variable.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A004_Variable\obj\Debug\A004_Variable.pdb
