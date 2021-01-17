@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.pdb
