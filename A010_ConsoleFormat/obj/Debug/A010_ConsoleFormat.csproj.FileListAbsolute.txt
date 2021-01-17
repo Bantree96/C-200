@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.pdb
