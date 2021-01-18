@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A016_Operators\bin\Debug\A016_Operators.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A016_Operators\bin\Debug\A016_Operators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A016_Operators\bin\Debug\A016_Operators.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A016_Operators\obj\Debug\A016_Operators.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A016_Operators\obj\Debug\A016_Operators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A016_Operators\obj\Debug\A016_Operators.pdb
