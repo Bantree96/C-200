@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A017_ArithmeticOperators\bin\Debug\A017_ArithmeticOperators.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A017_ArithmeticOperators\bin\Debug\A017_ArithmeticOperators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A017_ArithmeticOperators\bin\Debug\A017_ArithmeticOperators.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A017_ArithmeticOperators\obj\Debug\A017_ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A017_ArithmeticOperators\obj\Debug\A017_ArithmeticOperators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A017_ArithmeticOperators\obj\Debug\A017_ArithmeticOperators.pdb
