@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A015_Convert\bin\Debug\A015_Convert.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A015_Convert\bin\Debug\A015_Convert.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A015_Convert\bin\Debug\A015_Convert.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A015_Convert\obj\Debug\A015_Convert.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A015_Convert\obj\Debug\A015_Convert.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A015_Convert\obj\Debug\A015_Convert.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A015_Convert\obj\Debug\A015_Convert.pdb
