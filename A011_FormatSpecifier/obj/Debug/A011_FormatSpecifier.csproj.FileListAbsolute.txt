@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.exe.config
+C:\Users\jiwon\source\repos\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.exe
+C:\Users\jiwon\source\repos\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.pdb
+C:\Users\jiwon\source\repos\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.exe
+C:\Users\jiwon\source\repos\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.pdb
