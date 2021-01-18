@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A012_FloatDoubleDecimal\bin\Debug\A012_FloatDoubleDecimal.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A012_FloatDoubleDecimal\bin\Debug\A012_FloatDoubleDecimal.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A012_FloatDoubleDecimal\bin\Debug\A012_FloatDoubleDecimal.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A012_FloatDoubleDecimal\obj\Debug\A012_FloatDoubleDecimal.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A012_FloatDoubleDecimal\obj\Debug\A012_FloatDoubleDecimal.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A012_FloatDoubleDecimal\obj\Debug\A012_FloatDoubleDecimal.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A012_FloatDoubleDecimal\obj\Debug\A012_FloatDoubleDecimal.pdb
