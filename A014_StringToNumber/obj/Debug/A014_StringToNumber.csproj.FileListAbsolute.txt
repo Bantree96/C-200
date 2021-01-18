@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A014_StringToNumber\bin\Debug\A014_StringToNumber.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A014_StringToNumber\bin\Debug\A014_StringToNumber.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A014_StringToNumber\bin\Debug\A014_StringToNumber.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A014_StringToNumber\obj\Debug\A014_StringToNumber.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A014_StringToNumber\obj\Debug\A014_StringToNumber.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A014_StringToNumber\obj\Debug\A014_StringToNumber.pdb
