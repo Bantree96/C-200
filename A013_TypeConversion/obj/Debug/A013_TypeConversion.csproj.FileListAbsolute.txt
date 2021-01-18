@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A013_TypeConversion\bin\Debug\A013_TypeConversion.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A013_TypeConversion\bin\Debug\A013_TypeConversion.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A013_TypeConversion\bin\Debug\A013_TypeConversion.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A013_TypeConversion\obj\Debug\A013_TypeConversion.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A013_TypeConversion\obj\Debug\A013_TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A013_TypeConversion\obj\Debug\A013_TypeConversion.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A013_TypeConversion\obj\Debug\A013_TypeConversion.pdb
