@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A022_BitwiseOperators\bin\Debug\A022_BitwiseOperators.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A022_BitwiseOperators\bin\Debug\A022_BitwiseOperators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A022_BitwiseOperators\bin\Debug\A022_BitwiseOperators.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A022_BitwiseOperators\obj\Debug\A022_BitwiseOperators.pdb
