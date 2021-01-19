@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A020_RelationalOperators\bin\Debug\A020_RelationalOperators.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A020_RelationalOperators\bin\Debug\A020_RelationalOperators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A020_RelationalOperators\bin\Debug\A020_RelationalOperators.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A020_RelationalOperators\obj\Debug\A020_RelationalOperators.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A020_RelationalOperators\obj\Debug\A020_RelationalOperators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A020_RelationalOperators\obj\Debug\A020_RelationalOperators.pdb
