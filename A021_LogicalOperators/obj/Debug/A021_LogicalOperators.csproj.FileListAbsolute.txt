@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A021_LogicalOperators\bin\Debug\A021_LogicalOperators.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A021_LogicalOperators\bin\Debug\A021_LogicalOperators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A021_LogicalOperators\bin\Debug\A021_LogicalOperators.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A021_LogicalOperators\obj\Debug\A021_LogicalOperators.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A021_LogicalOperators\obj\Debug\A021_LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A021_LogicalOperators\obj\Debug\A021_LogicalOperators.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A021_LogicalOperators\obj\Debug\A021_LogicalOperators.pdb
