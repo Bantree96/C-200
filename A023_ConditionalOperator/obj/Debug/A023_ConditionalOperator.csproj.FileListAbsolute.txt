@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A023_ConditionalOperator\bin\Debug\A023_ConditionalOperator.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A023_ConditionalOperator\bin\Debug\A023_ConditionalOperator.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A023_ConditionalOperator\bin\Debug\A023_ConditionalOperator.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A023_ConditionalOperator\obj\Debug\A023_ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A023_ConditionalOperator\obj\Debug\A023_ConditionalOperator.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A023_ConditionalOperator\obj\Debug\A023_ConditionalOperator.pdb
