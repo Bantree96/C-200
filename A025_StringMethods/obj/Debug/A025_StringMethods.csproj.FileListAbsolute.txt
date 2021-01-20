@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A025_StringMethods\bin\Debug\A025_StringMethods.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A025_StringMethods\bin\Debug\A025_StringMethods.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A025_StringMethods\bin\Debug\A025_StringMethods.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A025_StringMethods\obj\Debug\A025_StringMethods.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A025_StringMethods\obj\Debug\A025_StringMethods.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A025_StringMethods\obj\Debug\A025_StringMethods.pdb
