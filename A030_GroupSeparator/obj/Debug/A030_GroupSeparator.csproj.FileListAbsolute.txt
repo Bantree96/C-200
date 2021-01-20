@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A030_GroupSeparator\bin\Debug\A030_GroupSeparator.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A030_GroupSeparator\bin\Debug\A030_GroupSeparator.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A030_GroupSeparator\bin\Debug\A030_GroupSeparator.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A030_GroupSeparator\obj\Debug\A030_GroupSeparator.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A030_GroupSeparator\obj\Debug\A030_GroupSeparator.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A030_GroupSeparator\obj\Debug\A030_GroupSeparator.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A030_GroupSeparator\obj\Debug\A030_GroupSeparator.pdb
