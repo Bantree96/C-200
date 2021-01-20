@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A028_StringContains\bin\Debug\A028_StringContains.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A028_StringContains\bin\Debug\A028_StringContains.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A028_StringContains\bin\Debug\A028_StringContains.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A028_StringContains\obj\Debug\A028_StringContains.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A028_StringContains\obj\Debug\A028_StringContains.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A028_StringContains\obj\Debug\A028_StringContains.pdb
