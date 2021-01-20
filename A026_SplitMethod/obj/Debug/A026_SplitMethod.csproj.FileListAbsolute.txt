@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A026_SplitMethod\obj\Debug\A026_SplitMethod.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A026_SplitMethod\bin\Debug\A026_SplitMethod.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A026_SplitMethod\bin\Debug\A026_SplitMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A026_SplitMethod\bin\Debug\A026_SplitMethod.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A026_SplitMethod\obj\Debug\A026_SplitMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A026_SplitMethod\obj\Debug\A026_SplitMethod.pdb
