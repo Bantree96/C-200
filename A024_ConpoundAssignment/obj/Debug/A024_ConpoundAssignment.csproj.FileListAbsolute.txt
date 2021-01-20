@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A024_ConpoundAssignment\bin\Debug\A024_ConpoundAssignment.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A024_ConpoundAssignment\bin\Debug\A024_ConpoundAssignment.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A024_ConpoundAssignment\bin\Debug\A024_ConpoundAssignment.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A024_ConpoundAssignment\obj\Debug\A024_ConpoundAssignment.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A024_ConpoundAssignment\obj\Debug\A024_ConpoundAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A024_ConpoundAssignment\obj\Debug\A024_ConpoundAssignment.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A024_ConpoundAssignment\obj\Debug\A024_ConpoundAssignment.pdb
