@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A029_StringFormat\bin\Debug\A029_StringFormat.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A029_StringFormat\bin\Debug\A029_StringFormat.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A029_StringFormat\bin\Debug\A029_StringFormat.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A029_StringFormat\obj\Debug\A029_StringFormat.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A029_StringFormat\obj\Debug\A029_StringFormat.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A029_StringFormat\obj\Debug\A029_StringFormat.pdb
