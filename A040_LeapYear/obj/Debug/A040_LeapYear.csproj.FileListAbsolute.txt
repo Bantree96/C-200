@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A040_LeapYear\bin\Debug\A040_LeapYear.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A040_LeapYear\bin\Debug\A040_LeapYear.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A040_LeapYear\bin\Debug\A040_LeapYear.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A040_LeapYear\obj\Debug\A040_LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A040_LeapYear\obj\Debug\A040_LeapYear.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A040_LeapYear\obj\Debug\A040_LeapYear.pdb
