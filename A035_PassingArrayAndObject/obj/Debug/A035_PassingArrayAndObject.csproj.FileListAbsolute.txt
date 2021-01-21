@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.pdb
