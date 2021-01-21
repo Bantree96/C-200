@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A032_Enum\bin\Debug\A032_Enum.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A032_Enum\bin\Debug\A032_Enum.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A032_Enum\bin\Debug\A032_Enum.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A032_Enum\obj\Debug\A032_Enum.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A032_Enum\obj\Debug\A032_Enum.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A032_Enum\obj\Debug\A032_Enum.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A032_Enum\obj\Debug\A032_Enum.pdb
