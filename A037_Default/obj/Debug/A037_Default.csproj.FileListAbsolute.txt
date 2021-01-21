@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A037_Default\bin\Debug\A037_Default.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A037_Default\bin\Debug\A037_Default.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A037_Default\bin\Debug\A037_Default.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A037_Default\obj\Debug\A037_Default.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A037_Default\obj\Debug\A037_Default.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A037_Default\obj\Debug\A037_Default.pdb
