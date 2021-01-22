@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A043_Loop\bin\Debug\A043_Loop.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A043_Loop\bin\Debug\A043_Loop.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A043_Loop\bin\Debug\A043_Loop.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A043_Loop\obj\Debug\A043_Loop.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A043_Loop\obj\Debug\A043_Loop.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A043_Loop\obj\Debug\A043_Loop.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A043_Loop\obj\Debug\A043_Loop.pdb
