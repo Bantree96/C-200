@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A042_BMI\bin\Debug\A042_BMI.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A042_BMI\bin\Debug\A042_BMI.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A042_BMI\bin\Debug\A042_BMI.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A042_BMI\obj\Debug\A042_BMI.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A042_BMI\obj\Debug\A042_BMI.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A042_BMI\obj\Debug\A042_BMI.pdb
