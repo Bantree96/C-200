@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A046_MinMax\bin\Debug\A046_MinMax.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A046_MinMax\bin\Debug\A046_MinMax.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A046_MinMax\bin\Debug\A046_MinMax.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A046_MinMax\obj\Debug\A046_MinMax.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A046_MinMax\obj\Debug\A046_MinMax.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A046_MinMax\obj\Debug\A046_MinMax.pdb
