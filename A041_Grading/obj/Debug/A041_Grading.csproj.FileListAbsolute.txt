@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A041_Grading\obj\Debug\A041_Grading.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A041_Grading\obj\Debug\A041_Grading.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A041_Grading\bin\Debug\A041_Grading.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A041_Grading\bin\Debug\A041_Grading.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A041_Grading\bin\Debug\A041_Grading.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A041_Grading\obj\Debug\A041_Grading.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A041_Grading\obj\Debug\A041_Grading.pdb
