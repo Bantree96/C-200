@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A044_NumberSystem\bin\Debug\A044_NumberSystem.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A044_NumberSystem\bin\Debug\A044_NumberSystem.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A044_NumberSystem\bin\Debug\A044_NumberSystem.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A044_NumberSystem\obj\Debug\A044_NumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A044_NumberSystem\obj\Debug\A044_NumberSystem.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A044_NumberSystem\obj\Debug\A044_NumberSystem.pdb
