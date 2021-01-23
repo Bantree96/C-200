@@ -26,7 +26,7 @@ namespace A051_InfiniteLoop
             }
             Console.WriteLine("{0}일차에 {1:###,###}원이 됩니다.", days, sum);
 
-            // for문으로 만듬(반복할때마다 days++, money*=2로 변경)
+            // for문으로 만듬(반복할때마다 days++, money*=2로 변경)ㅞ
             for (sum = 0, days = 1, money = 1000; ; days++, money *= 2)
             {
                 sum += money;
