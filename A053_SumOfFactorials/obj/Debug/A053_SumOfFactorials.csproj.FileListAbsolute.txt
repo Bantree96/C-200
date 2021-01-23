@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A053_SumOfFactorials\bin\Debug\A053_SumOfFactorials.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A053_SumOfFactorials\bin\Debug\A053_SumOfFactorials.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A053_SumOfFactorials\bin\Debug\A053_SumOfFactorials.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A053_SumOfFactorials\obj\Debug\A053_SumOfFactorials.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A053_SumOfFactorials\obj\Debug\A053_SumOfFactorials.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A053_SumOfFactorials\obj\Debug\A053_SumOfFactorials.pdb
