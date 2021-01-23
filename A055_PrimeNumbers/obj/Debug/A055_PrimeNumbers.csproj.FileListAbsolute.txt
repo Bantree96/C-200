@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A055_PrimeNumbers\bin\Debug\A055_PrimeNumbers.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A055_PrimeNumbers\bin\Debug\A055_PrimeNumbers.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A055_PrimeNumbers\bin\Debug\A055_PrimeNumbers.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A055_PrimeNumbers\obj\Debug\A055_PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A055_PrimeNumbers\obj\Debug\A055_PrimeNumbers.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A055_PrimeNumbers\obj\Debug\A055_PrimeNumbers.pdb
