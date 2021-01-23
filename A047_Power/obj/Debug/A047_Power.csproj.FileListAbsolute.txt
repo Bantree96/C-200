@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\A047_Power\bin\Debug\A047_Power.exe.config
+C:\Users\jiwon\source\repos\A047_Power\bin\Debug\A047_Power.exe
+C:\Users\jiwon\source\repos\A047_Power\bin\Debug\A047_Power.pdb
+C:\Users\jiwon\source\repos\A047_Power\obj\Debug\A047_Power.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\A047_Power\obj\Debug\A047_Power.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\A047_Power\obj\Debug\A047_Power.exe
+C:\Users\jiwon\source\repos\A047_Power\obj\Debug\A047_Power.pdb
