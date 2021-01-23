@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace A048_Power
+namespace A047_Power
 {
     class Program
     {
