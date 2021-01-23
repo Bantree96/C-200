@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A049_PrimeNumber\bin\Debug\A049_PrimeNumber.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A049_PrimeNumber\bin\Debug\A049_PrimeNumber.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A049_PrimeNumber\bin\Debug\A049_PrimeNumber.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.pdb
