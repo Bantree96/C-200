@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\A048_Factorial\bin\Debug\A048_Factorial.exe.config
+C:\Users\jiwon\source\repos\A048_Factorial\bin\Debug\A048_Factorial.exe
+C:\Users\jiwon\source\repos\A048_Factorial\bin\Debug\A048_Factorial.pdb
+C:\Users\jiwon\source\repos\A048_Factorial\obj\Debug\A048_Factorial.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\A048_Factorial\obj\Debug\A048_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\A048_Factorial\obj\Debug\A048_Factorial.exe
+C:\Users\jiwon\source\repos\A048_Factorial\obj\Debug\A048_Factorial.pdb
