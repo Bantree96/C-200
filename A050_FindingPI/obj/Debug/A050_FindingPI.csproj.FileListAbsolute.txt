@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A050_FindingPI\bin\Debug\A050_FindingPI.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A050_FindingPI\bin\Debug\A050_FindingPI.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A050_FindingPI\bin\Debug\A050_FindingPI.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A050_FindingPI\obj\Debug\A050_FindingPI.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A050_FindingPI\obj\Debug\A050_FindingPI.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A050_FindingPI\obj\Debug\A050_FindingPI.pdb
