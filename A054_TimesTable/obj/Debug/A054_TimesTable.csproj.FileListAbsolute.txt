@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A054_TimesTable\bin\Debug\A054_TimesTable.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A054_TimesTable\bin\Debug\A054_TimesTable.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A054_TimesTable\bin\Debug\A054_TimesTable.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A054_TimesTable\obj\Debug\A054_TimesTable.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A054_TimesTable\obj\Debug\A054_TimesTable.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A054_TimesTable\obj\Debug\A054_TimesTable.pdb
