@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A052_UsingBreak\bin\Debug\A052_UsingBreak.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A052_UsingBreak\bin\Debug\A052_UsingBreak.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A052_UsingBreak\bin\Debug\A052_UsingBreak.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A052_UsingBreak\obj\Debug\A052_UsingBreak.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A052_UsingBreak\obj\Debug\A052_UsingBreak.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A052_UsingBreak\obj\Debug\A052_UsingBreak.pdb
