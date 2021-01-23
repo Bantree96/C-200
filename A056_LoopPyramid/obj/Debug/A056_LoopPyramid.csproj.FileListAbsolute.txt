@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A056_LoopPyramid\bin\Debug\A056_LoopPyramid.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A056_LoopPyramid\bin\Debug\A056_LoopPyramid.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A056_LoopPyramid\bin\Debug\A056_LoopPyramid.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A056_LoopPyramid\obj\Debug\A056_LoopPyramid.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A056_LoopPyramid\obj\Debug\A056_LoopPyramid.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A056_LoopPyramid\obj\Debug\A056_LoopPyramid.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A056_LoopPyramid", "A056_LoopPyramid.csproj", "{F88A0B8D-B126-4DE9-BEB9-BDF3F738D36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88A0B8D-B126-4DE9-BEB9-BDF3F738D36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88A0B8D-B126-4DE9-BEB9-BDF3F738D36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88A0B8D-B126-4DE9-BEB9-BDF3F738D36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88A0B8D-B126-4DE9-BEB9-BDF3F738D36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDE84DB-0F90-48FE-BC5F-353043B322B5}
+	EndGlobalSection
+EndGlobal
