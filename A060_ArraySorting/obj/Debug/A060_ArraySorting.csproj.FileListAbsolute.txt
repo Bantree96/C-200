@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A060_ArraySorting\bin\Debug\A060_ArraySorting.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A060_ArraySorting\bin\Debug\A060_ArraySorting.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A060_ArraySorting\bin\Debug\A060_ArraySorting.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A060_ArraySorting\obj\Debug\A060_ArraySorting.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A060_ArraySorting\obj\Debug\A060_ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A060_ArraySorting\obj\Debug\A060_ArraySorting.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A060_ArraySorting\obj\Debug\A060_ArraySorting.pdb
