@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.pdb
