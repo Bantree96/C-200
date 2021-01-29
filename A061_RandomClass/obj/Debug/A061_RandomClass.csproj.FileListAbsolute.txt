@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A061_RandomClass\bin\Debug\A061_RandomClass.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A061_RandomClass\bin\Debug\A061_RandomClass.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A061_RandomClass\bin\Debug\A061_RandomClass.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A061_RandomClass\obj\Debug\A061_RandomClass.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A061_RandomClass\obj\Debug\A061_RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A061_RandomClass\obj\Debug\A061_RandomClass.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A061_RandomClass\obj\Debug\A061_RandomClass.pdb
