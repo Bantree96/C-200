@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A057_ArrayBasic\bin\Debug\A057_ArrayBasic.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A057_ArrayBasic\bin\Debug\A057_ArrayBasic.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A057_ArrayBasic\bin\Debug\A057_ArrayBasic.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.pdb
