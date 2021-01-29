@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A062_ArrayAndRandom\bin\Debug\A062_ArrayAndRandom.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A062_ArrayAndRandom\bin\Debug\A062_ArrayAndRandom.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A062_ArrayAndRandom\bin\Debug\A062_ArrayAndRandom.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A062_ArrayAndRandom\obj\Debug\A062_ArrayAndRandom.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A062_ArrayAndRandom\obj\Debug\A062_ArrayAndRandom.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A062_ArrayAndRandom\obj\Debug\A062_ArrayAndRandom.pdb
