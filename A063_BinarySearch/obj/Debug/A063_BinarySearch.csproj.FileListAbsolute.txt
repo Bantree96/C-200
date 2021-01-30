@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A063_BinarySearch\bin\Debug\A063_BinarySearch.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A063_BinarySearch\bin\Debug\A063_BinarySearch.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A063_BinarySearch\bin\Debug\A063_BinarySearch.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A063_BinarySearch\obj\Debug\A063_BinarySearch.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A063_BinarySearch\obj\Debug\A063_BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A063_BinarySearch\obj\Debug\A063_BinarySearch.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A063_BinarySearch\obj\Debug\A063_BinarySearch.pdb
