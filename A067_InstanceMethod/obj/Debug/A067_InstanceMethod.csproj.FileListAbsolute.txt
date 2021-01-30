@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A067_InstanceMethod\bin\Debug\A067_InstanceMethod.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A067_InstanceMethod\bin\Debug\A067_InstanceMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A067_InstanceMethod\bin\Debug\A067_InstanceMethod.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A067_InstanceMethod\obj\Debug\A067_InstanceMethod.pdb
