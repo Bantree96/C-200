@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A066_FieldsAndConstants\bin\Debug\A066_FieldsAndConstants.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A066_FieldsAndConstants\bin\Debug\A066_FieldsAndConstants.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A066_FieldsAndConstants\bin\Debug\A066_FieldsAndConstants.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A066_FieldsAndConstants\obj\Debug\A066_FieldsAndConstants.pdb
