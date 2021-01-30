@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A065_ClassAndStruct\bin\Debug\A065_ClassAndStruct.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A065_ClassAndStruct\bin\Debug\A065_ClassAndStruct.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A065_ClassAndStruct\bin\Debug\A065_ClassAndStruct.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.pdb

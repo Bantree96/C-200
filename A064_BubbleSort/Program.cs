@@ -16,7 +16,7 @@ namespace A064_BubbleSort
             for(int i=4; i>0; i--)
             {
                 for(int j =0; j<i; j++)
-                    // 앞쪽 값이 뒤쪽값보다 크면 두 요소를 교환함
+                    // 앞쪽 값이 뒤쪽값보다 크면 두 요소를 교환함ㅞ
                     if(v[j] > v[j + 1])
                     {
                         int t = v[j];
