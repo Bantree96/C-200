@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A069_Property\bin\Debug\A069_Property.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A069_Property\bin\Debug\A069_Property.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A069_Property\bin\Debug\A069_Property.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A069_Property\obj\Debug\A069_Property.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A069_Property\obj\Debug\A069_Property.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A069_Property\obj\Debug\A069_Property.pdb
