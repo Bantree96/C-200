@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A068_Constuctor\bin\Debug\A068_Constuctor.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A068_Constuctor\bin\Debug\A068_Constuctor.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A068_Constuctor\bin\Debug\A068_Constuctor.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A068_Constuctor\obj\Debug\A068_Constuctor.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A068_Constuctor\obj\Debug\A068_Constuctor.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A068_Constuctor\obj\Debug\A068_Constuctor.pdb
