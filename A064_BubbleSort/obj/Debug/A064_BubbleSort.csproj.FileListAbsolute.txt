@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A064_BubbleSort\bin\Debug\A064_BubbleSort.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A064_BubbleSort\bin\Debug\A064_BubbleSort.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A064_BubbleSort\bin\Debug\A064_BubbleSort.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A064_BubbleSort\obj\Debug\A064_BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A064_BubbleSort\obj\Debug\A064_BubbleSort.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A064_BubbleSort\obj\Debug\A064_BubbleSort.pdb
