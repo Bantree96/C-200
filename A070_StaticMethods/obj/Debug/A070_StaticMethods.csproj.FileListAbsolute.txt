@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A070_StaticMethods\bin\Debug\A070_StaticMethods.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A070_StaticMethods\bin\Debug\A070_StaticMethods.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A070_StaticMethods\bin\Debug\A070_StaticMethods.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A070_StaticMethods\obj\Debug\A070_StaticMethods.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A070_StaticMethods\obj\Debug\A070_StaticMethods.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A070_StaticMethods\obj\Debug\A070_StaticMethods.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A070_StaticMethods\obj\Debug\A070_StaticMethods.pdb
