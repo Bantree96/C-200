@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A072_IsLeapYear\bin\Debug\A072_IsLeapYear.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A072_IsLeapYear\bin\Debug\A072_IsLeapYear.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A072_IsLeapYear\bin\Debug\A072_IsLeapYear.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.pdb
