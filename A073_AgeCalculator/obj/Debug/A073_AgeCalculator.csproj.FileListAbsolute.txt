@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A073_AgeCalculator\bin\Debug\A073_AgeCalculator.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A073_AgeCalculator\bin\Debug\A073_AgeCalculator.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A073_AgeCalculator\bin\Debug\A073_AgeCalculator.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.pdb
