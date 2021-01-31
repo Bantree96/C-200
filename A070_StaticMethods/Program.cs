@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace A070_StaticMethods
 {
-    class Methods
+    class Methodsㅞ
     {
         private int Larger(int x, int y)
         {
