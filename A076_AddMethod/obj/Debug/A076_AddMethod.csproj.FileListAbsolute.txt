@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A076_AddMethod\bin\Debug\A076_AddMethod.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A076_AddMethod\bin\Debug\A076_AddMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A076_AddMethod\bin\Debug\A076_AddMethod.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A076_AddMethod\obj\Debug\A076_AddMethod.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A076_AddMethod\obj\Debug\A076_AddMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A076_AddMethod\obj\Debug\A076_AddMethod.pdb
