@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A077_PowerMethod\obj\Debug\A077_PowerMethod.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A077_PowerMethod\bin\Debug\A077_PowerMethod.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A077_PowerMethod\bin\Debug\A077_PowerMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A077_PowerMethod\bin\Debug\A077_PowerMethod.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A077_PowerMethod\obj\Debug\A077_PowerMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A077_PowerMethod\obj\Debug\A077_PowerMethod.pdb
