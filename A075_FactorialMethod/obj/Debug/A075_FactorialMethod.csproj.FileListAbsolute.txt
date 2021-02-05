@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A075_FactorialMethod\bin\Debug\A075_FactorialMethod.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A075_FactorialMethod\bin\Debug\A075_FactorialMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A075_FactorialMethod\bin\Debug\A075_FactorialMethod.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A075_FactorialMethod\obj\Debug\A075_FactorialMethod.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A075_FactorialMethod\obj\Debug\A075_FactorialMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A075_FactorialMethod\obj\Debug\A075_FactorialMethod.pdb
