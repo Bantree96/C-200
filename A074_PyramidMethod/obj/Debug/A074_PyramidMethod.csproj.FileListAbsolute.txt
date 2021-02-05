@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A074_PyramidMethod\bin\Debug\A074_PyramidMethod.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A074_PyramidMethod\bin\Debug\A074_PyramidMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A074_PyramidMethod\bin\Debug\A074_PyramidMethod.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.pdb
