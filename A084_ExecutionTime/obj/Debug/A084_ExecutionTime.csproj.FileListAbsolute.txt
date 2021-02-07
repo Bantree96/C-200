@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A084_ExecutionTime\bin\Debug\A084_ExecutionTime.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A084_ExecutionTime\bin\Debug\A084_ExecutionTime.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A084_ExecutionTime\bin\Debug\A084_ExecutionTime.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A084_ExecutionTime\obj\Debug\A084_ExecutionTime.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A084_ExecutionTime\obj\Debug\A084_ExecutionTime.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A084_ExecutionTime\obj\Debug\A084_ExecutionTime.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A084_ExecutionTime\obj\Debug\A084_ExecutionTime.pdb
