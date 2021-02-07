@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\A079_RecursivePower\bin\Debug\A079_RecursivePower.exe.config
+C:\Users\jiwon\source\repos\A079_RecursivePower\bin\Debug\A079_RecursivePower.exe
+C:\Users\jiwon\source\repos\A079_RecursivePower\bin\Debug\A079_RecursivePower.pdb
+C:\Users\jiwon\source\repos\A079_RecursivePower\obj\Debug\A079_RecursivePower.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\A079_RecursivePower\obj\Debug\A079_RecursivePower.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\A079_RecursivePower\obj\Debug\A079_RecursivePower.exe
+C:\Users\jiwon\source\repos\A079_RecursivePower\obj\Debug\A079_RecursivePower.pdb
