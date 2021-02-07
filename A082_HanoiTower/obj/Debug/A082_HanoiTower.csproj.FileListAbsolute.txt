@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A082_HanoiTower\bin\Debug\A082_HanoiTower.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A082_HanoiTower\bin\Debug\A082_HanoiTower.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A082_HanoiTower\bin\Debug\A082_HanoiTower.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A082_HanoiTower\obj\Debug\A082_HanoiTower.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A082_HanoiTower\obj\Debug\A082_HanoiTower.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A082_HanoiTower\obj\Debug\A082_HanoiTower.pdb
