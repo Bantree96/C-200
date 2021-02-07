@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A081_RecursiveSumOfReciprocal\bin\Debug\A081_RecursiveSumOfReciprocal.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A081_RecursiveSumOfReciprocal\bin\Debug\A081_RecursiveSumOfReciprocal.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A081_RecursiveSumOfReciprocal\bin\Debug\A081_RecursiveSumOfReciprocal.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A081_RecursiveSumOfReciprocal\obj\Debug\A081_RecursiveSumOfReciprocal.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A081_RecursiveSumOfReciprocal\obj\Debug\A081_RecursiveSumOfReciprocal.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A081_RecursiveSumOfReciprocal\obj\Debug\A081_RecursiveSumOfReciprocal.pdb
