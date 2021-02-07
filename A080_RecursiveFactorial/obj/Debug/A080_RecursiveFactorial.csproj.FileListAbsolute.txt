@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\A080_RecursiveFactorial\bin\Debug\A080_RecursiveFactorial.exe.config
+C:\Users\jiwon\source\repos\A080_RecursiveFactorial\bin\Debug\A080_RecursiveFactorial.exe
+C:\Users\jiwon\source\repos\A080_RecursiveFactorial\bin\Debug\A080_RecursiveFactorial.pdb
+C:\Users\jiwon\source\repos\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.exe
+C:\Users\jiwon\source\repos\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.pdb
