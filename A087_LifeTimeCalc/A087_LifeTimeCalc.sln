@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A087_LifeTimeCalc", "A087_LifeTimeCalc.csproj", "{7FB5E5B2-CD66-4369-87EF-82C6BA9400BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB5E5B2-CD66-4369-87EF-82C6BA9400BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB5E5B2-CD66-4369-87EF-82C6BA9400BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB5E5B2-CD66-4369-87EF-82C6BA9400BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB5E5B2-CD66-4369-87EF-82C6BA9400BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E08E10-8FFE-411C-82A7-2E244A29BE3D}
+	EndGlobalSection
+EndGlobal

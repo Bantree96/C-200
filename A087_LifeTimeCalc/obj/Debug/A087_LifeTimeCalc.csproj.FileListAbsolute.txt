@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A087_LifeTimeCalc\obj\Debug\A087_LifeTimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A087_LifeTimeCalc\bin\Debug\A087_LifeTimeCalc.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A087_LifeTimeCalc\bin\Debug\A087_LifeTimeCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A087_LifeTimeCalc\bin\Debug\A087_LifeTimeCalc.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A087_LifeTimeCalc\obj\Debug\A087_LifeTimeCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A087_LifeTimeCalc\obj\Debug\A087_LifeTimeCalc.pdb
