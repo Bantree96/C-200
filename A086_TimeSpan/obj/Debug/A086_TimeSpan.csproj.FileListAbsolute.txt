@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A086_TimeSpan\bin\Debug\A086_TimeSpan.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A086_TimeSpan\bin\Debug\A086_TimeSpan.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A086_TimeSpan\bin\Debug\A086_TimeSpan.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A086_TimeSpan\obj\Debug\A086_TimeSpan.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A086_TimeSpan\obj\Debug\A086_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A086_TimeSpan\obj\Debug\A086_TimeSpan.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A086_TimeSpan\obj\Debug\A086_TimeSpan.pdb
