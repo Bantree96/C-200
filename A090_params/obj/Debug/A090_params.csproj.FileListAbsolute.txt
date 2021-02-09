@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A090_params\bin\Debug\A090_params.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A090_params\bin\Debug\A090_params.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A090_params\bin\Debug\A090_params.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A090_params\obj\Debug\A090_params.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A090_params\obj\Debug\A090_params.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A090_params\obj\Debug\A090_params.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A090_params\obj\Debug\A090_params.pdb
