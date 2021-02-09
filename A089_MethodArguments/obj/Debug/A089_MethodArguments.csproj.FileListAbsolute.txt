@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A089_MethodArguments\bin\Debug\A089_MethodArguments.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A089_MethodArguments\bin\Debug\A089_MethodArguments.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A089_MethodArguments\bin\Debug\A089_MethodArguments.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A089_MethodArguments\obj\Debug\A089_MethodArguments.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A089_MethodArguments\obj\Debug\A089_MethodArguments.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A089_MethodArguments\obj\Debug\A089_MethodArguments.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A089_MethodArguments\obj\Debug\A089_MethodArguments.pdb
