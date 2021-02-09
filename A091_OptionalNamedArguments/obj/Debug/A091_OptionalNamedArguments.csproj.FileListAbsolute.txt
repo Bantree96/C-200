@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.pdb
