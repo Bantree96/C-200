@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A095_GenericMethodsUsingDynamic\bin\Debug\A095_GenericMethodsUsingDynamic.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A095_GenericMethodsUsingDynamic\bin\Debug\A095_GenericMethodsUsingDynamic.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A095_GenericMethodsUsingDynamic\bin\Debug\A095_GenericMethodsUsingDynamic.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A095_GenericMethodsUsingDynamic\obj\Debug\A095_GenericMethodsUsingDynamic.pdb
