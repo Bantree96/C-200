@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A098_StackImplementation\bin\Debug\A098_StackImplementation.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A098_StackImplementation\bin\Debug\A098_StackImplementation.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A098_StackImplementation\bin\Debug\A098_StackImplementation.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A098_StackImplementation\obj\Debug\A098_StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A098_StackImplementation\obj\Debug\A098_StackImplementation.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A098_StackImplementation\obj\Debug\A098_StackImplementation.pdb
