@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A093_GenericMethod\bin\Debug\A093_GenericMethod.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A093_GenericMethod\bin\Debug\A093_GenericMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A093_GenericMethod\bin\Debug\A093_GenericMethod.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A093_GenericMethod\obj\Debug\A093_GenericMethod.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A093_GenericMethod\obj\Debug\A093_GenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A093_GenericMethod\obj\Debug\A093_GenericMethod.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A093_GenericMethod\obj\Debug\A093_GenericMethod.pdb
