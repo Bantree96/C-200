@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A107_IComparable\obj\Debug\A107_IComparable.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A107_IComparable\obj\Debug\A107_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A107_IComparable\bin\Debug\A107_IComparable.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A107_IComparable\bin\Debug\A107_IComparable.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A107_IComparable\bin\Debug\A107_IComparable.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A107_IComparable\obj\Debug\A107_IComparable.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A107_IComparable\obj\Debug\A107_IComparable.pdb
