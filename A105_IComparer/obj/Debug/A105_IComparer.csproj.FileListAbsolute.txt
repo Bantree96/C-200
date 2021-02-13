@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A105_IComparer\obj\Debug\A105_IComparer.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A105_IComparer\obj\Debug\A105_IComparer.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A105_IComparer\bin\Debug\A105_IComparer.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A105_IComparer\bin\Debug\A105_IComparer.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A105_IComparer\bin\Debug\A105_IComparer.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A105_IComparer\obj\Debug\A105_IComparer.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A105_IComparer\obj\Debug\A105_IComparer.pdb
