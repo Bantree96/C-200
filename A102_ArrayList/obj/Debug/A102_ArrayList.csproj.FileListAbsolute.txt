@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A102_ArrayList\bin\Debug\A102_ArrayList.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A102_ArrayList\bin\Debug\A102_ArrayList.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A102_ArrayList\bin\Debug\A102_ArrayList.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A102_ArrayList\obj\Debug\A102_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A102_ArrayList\obj\Debug\A102_ArrayList.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A102_ArrayList\obj\Debug\A102_ArrayList.pdb
