@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A103_List\bin\Debug\A103_List.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A103_List\bin\Debug\A103_List.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A103_List\bin\Debug\A103_List.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A103_List\obj\Debug\A103_List.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A103_List\obj\Debug\A103_List.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A103_List\obj\Debug\A103_List.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A103_List\obj\Debug\A103_List.pdb
