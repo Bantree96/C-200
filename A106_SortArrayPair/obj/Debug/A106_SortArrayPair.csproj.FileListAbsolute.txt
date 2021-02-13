@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A106_SortArrayPair\obj\Debug\A106_SortArrayPair.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A106_SortArrayPair\obj\Debug\A106_SortArrayPair.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A106_SortArrayPair\bin\Debug\A106_SortArrayPair.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A106_SortArrayPair\bin\Debug\A106_SortArrayPair.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A106_SortArrayPair\bin\Debug\A106_SortArrayPair.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A106_SortArrayPair\obj\Debug\A106_SortArrayPair.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A106_SortArrayPair\obj\Debug\A106_SortArrayPair.pdb
