@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A104_AlphabeticalSort\bin\Debug\A104_AlphabeticalSort.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A104_AlphabeticalSort\bin\Debug\A104_AlphabeticalSort.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A104_AlphabeticalSort\bin\Debug\A104_AlphabeticalSort.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A104_AlphabeticalSort\obj\Debug\A104_AlphabeticalSort.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A104_AlphabeticalSort\obj\Debug\A104_AlphabeticalSort.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A104_AlphabeticalSort\obj\Debug\A104_AlphabeticalSort.pdb
