@@ -1,0 +1,7 @@
+C:\Users\jiwon\Source\Repos\Bantree96\CS200\A108_Queue\obj\Debug\A108_Queue.csprojAssemblyReference.cache
+C:\Users\jiwon\Source\Repos\Bantree96\CS200\A108_Queue\obj\Debug\A108_Queue.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\Source\Repos\Bantree96\CS200\A108_Queue\bin\Debug\A108_Queue.exe.config
+C:\Users\jiwon\Source\Repos\Bantree96\CS200\A108_Queue\bin\Debug\A108_Queue.exe
+C:\Users\jiwon\Source\Repos\Bantree96\CS200\A108_Queue\bin\Debug\A108_Queue.pdb
+C:\Users\jiwon\Source\Repos\Bantree96\CS200\A108_Queue\obj\Debug\A108_Queue.exe
+C:\Users\jiwon\Source\Repos\Bantree96\CS200\A108_Queue\obj\Debug\A108_Queue.pdb
