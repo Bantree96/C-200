@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A110_Dictionary\bin\Debug\A110_Dictionary.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A110_Dictionary\bin\Debug\A110_Dictionary.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A110_Dictionary\bin\Debug\A110_Dictionary.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A110_Dictionary\obj\Debug\A110_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A110_Dictionary\obj\Debug\A110_Dictionary.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A110_Dictionary\obj\Debug\A110_Dictionary.pdb
