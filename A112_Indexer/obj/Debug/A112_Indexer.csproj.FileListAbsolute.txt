@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A112_Indexer\bin\Debug\A112_Indexer.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A112_Indexer\bin\Debug\A112_Indexer.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A112_Indexer\bin\Debug\A112_Indexer.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A112_Indexer\obj\Debug\A112_Indexer.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A112_Indexer\obj\Debug\A112_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A112_Indexer\obj\Debug\A112_Indexer.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A112_Indexer\obj\Debug\A112_Indexer.pdb
