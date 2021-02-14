@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\A079_RecursivePower",
-    "\\A080_RecursiveFactorial"
+    "\\A080_RecursiveFactorial",
+    "\\A108_Queue"
   ],
-  "SelectedNode": "\\A080_RecursiveFactorial\\Program.cs",
+  "SelectedNode": "\\A108_Queue\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
