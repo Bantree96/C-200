@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A111_SortedList\bin\Debug\A111_SortedList.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A111_SortedList\bin\Debug\A111_SortedList.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A111_SortedList\bin\Debug\A111_SortedList.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A111_SortedList\obj\Debug\A111_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A111_SortedList\obj\Debug\A111_SortedList.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A111_SortedList\obj\Debug\A111_SortedList.pdb
