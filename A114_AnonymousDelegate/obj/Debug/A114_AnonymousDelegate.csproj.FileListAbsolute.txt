@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.pdb
