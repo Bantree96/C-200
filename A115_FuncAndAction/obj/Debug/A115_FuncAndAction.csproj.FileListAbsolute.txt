@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.pdb
