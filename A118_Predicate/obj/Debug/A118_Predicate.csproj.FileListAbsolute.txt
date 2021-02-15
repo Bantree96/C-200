@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A118_Predicate\bin\Debug\A118_Predicate.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A118_Predicate\bin\Debug\A118_Predicate.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A118_Predicate\bin\Debug\A118_Predicate.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A118_Predicate\obj\Debug\A118_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A118_Predicate\obj\Debug\A118_Predicate.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A118_Predicate\obj\Debug\A118_Predicate.pdb
