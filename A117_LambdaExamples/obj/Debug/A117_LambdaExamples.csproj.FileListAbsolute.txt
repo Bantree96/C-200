@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A117_LambdaExamples\bin\Debug\A117_LambdaExamples.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A117_LambdaExamples\bin\Debug\A117_LambdaExamples.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A117_LambdaExamples\bin\Debug\A117_LambdaExamples.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A117_LambdaExamples\obj\Debug\A117_LambdaExamples.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A117_LambdaExamples\obj\Debug\A117_LambdaExamples.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A117_LambdaExamples\obj\Debug\A117_LambdaExamples.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A117_LambdaExamples\obj\Debug\A117_LambdaExamples.pdb
