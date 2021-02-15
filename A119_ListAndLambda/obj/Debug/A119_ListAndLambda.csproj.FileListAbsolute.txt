@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.pdb
