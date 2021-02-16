@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A122_LinqToList\bin\Debug\A122_LinqToList.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A122_LinqToList\bin\Debug\A122_LinqToList.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A122_LinqToList\bin\Debug\A122_LinqToList.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A122_LinqToList\obj\Debug\A122_LinqToList.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A122_LinqToList\obj\Debug\A122_LinqToList.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A122_LinqToList\obj\Debug\A122_LinqToList.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A122_LinqToList\obj\Debug\A122_LinqToList.pdb
