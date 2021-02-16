@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A124_LinqGroupBy\bin\Debug\A124_LinqGroupBy.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A124_LinqGroupBy\bin\Debug\A124_LinqGroupBy.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A124_LinqGroupBy\bin\Debug\A124_LinqGroupBy.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A124_LinqGroupBy\obj\Debug\A124_LinqGroupBy.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A124_LinqGroupBy\obj\Debug\A124_LinqGroupBy.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A124_LinqGroupBy\obj\Debug\A124_LinqGroupBy.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A124_LinqGroupBy\obj\Debug\A124_LinqGroupBy.pdb
