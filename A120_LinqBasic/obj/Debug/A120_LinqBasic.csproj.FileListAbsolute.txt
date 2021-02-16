@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A120_LinqBasic\bin\Debug\A120_LinqBasic.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A120_LinqBasic\bin\Debug\A120_LinqBasic.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A120_LinqBasic\bin\Debug\A120_LinqBasic.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A120_LinqBasic\obj\Debug\A120_LinqBasic.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A120_LinqBasic\obj\Debug\A120_LinqBasic.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A120_LinqBasic\obj\Debug\A120_LinqBasic.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A120_LinqBasic\obj\Debug\A120_LinqBasic.pdb
