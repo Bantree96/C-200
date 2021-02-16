@@ -1,0 +1,7 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.pdb
