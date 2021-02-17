@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\bin\Debug\A131_BasicControls.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\bin\Debug\A131_BasicControls.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\bin\Debug\A131_BasicControls.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\obj\Debug\A131_BasicControls.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\obj\Debug\A131_BasicControls.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\obj\Debug\A131_BasicControls.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\obj\Debug\A131_BasicControls.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\obj\Debug\A131_BasicControls.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\obj\Debug\A131_BasicControls.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A131_BasicControls\obj\Debug\A131_BasicControls.pdb
