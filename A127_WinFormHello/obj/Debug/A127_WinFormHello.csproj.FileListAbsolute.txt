@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\bin\Debug\A127_WinFormHello.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\bin\Debug\A127_WinFormHello.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\bin\Debug\A127_WinFormHello.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\obj\Debug\A127_WinFormHello.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\obj\Debug\A127_WinFormHello.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\obj\Debug\A127_WinFormHello.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\obj\Debug\A127_WinFormHello.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\obj\Debug\A127_WinFormHello.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\obj\Debug\A127_WinFormHello.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A127_WinFormHello\obj\Debug\A127_WinFormHello.pdb
