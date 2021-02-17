@@ -1,0 +1,6 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A126_FormWithConsole\bin\Debug\A126_FormWithConsole.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A126_FormWithConsole\bin\Debug\A126_FormWithConsole.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A126_FormWithConsole\bin\Debug\A126_FormWithConsole.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A126_FormWithConsole\obj\Debug\A126_FormWithConsole.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A126_FormWithConsole\obj\Debug\A126_FormWithConsole.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A126_FormWithConsole\obj\Debug\A126_FormWithConsole.pdb
