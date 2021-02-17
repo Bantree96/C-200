@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\bin\Debug\A130_MessageBox.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\bin\Debug\A130_MessageBox.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\bin\Debug\A130_MessageBox.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\obj\Debug\A130_MessageBox.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\obj\Debug\A130_MessageBox.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\obj\Debug\A130_MessageBox.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\obj\Debug\A130_MessageBox.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A130_MessageBox\obj\Debug\A130_MessageBox.pdb
