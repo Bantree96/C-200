@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\bin\Debug\A132_Label.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\bin\Debug\A132_Label.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\bin\Debug\A132_Label.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\obj\Debug\A132_Label.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\obj\Debug\A132_Label.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\obj\Debug\A132_Label.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\obj\Debug\A132_Label.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\obj\Debug\A132_Label.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\obj\Debug\A132_Label.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A132_Label\obj\Debug\A132_Label.pdb
