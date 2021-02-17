@@ -1,0 +1,9 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\bin\Debug\A125_WinFormApp.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\bin\Debug\A125_WinFormApp.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\bin\Debug\A125_WinFormApp.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\obj\Debug\A125_WinFormApp.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\obj\Debug\A125_WinFormApp.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\obj\Debug\A125_WinFormApp.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\obj\Debug\A125_WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\obj\Debug\A125_WinFormApp.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A125_WinFormApp\obj\Debug\A125_WinFormApp.pdb
