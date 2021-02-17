@@ -1,0 +1,11 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\bin\Debug\A129_FormClass.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\bin\Debug\A129_FormClass.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\bin\Debug\A129_FormClass.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\obj\Debug\A129_FormClass.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\obj\Debug\A129_FormClass.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\obj\Debug\A129_FormClass.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\obj\Debug\A129_FormClass.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\obj\Debug\A129_FormClass.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\obj\Debug\A129_FormClass.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\obj\Debug\A129_FormClass.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A129_FormClass\obj\Debug\A129_FormClass.Form2.resources
