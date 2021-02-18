@@ -43,12 +43,9 @@ namespace A135_RadioButton
         {
             checkedRB = rbMale;
         }
-
         private void rbFemale_CheckedChanged(object sender, EventArgs e)
         {
             checkedRB = rbFemale;
         }
     }
-
-
 }
