@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\bin\Debug\A133_Flag.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\bin\Debug\A133_Flag.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\bin\Debug\A133_Flag.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\obj\Debug\A133_Flag.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\obj\Debug\A133_Flag.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\obj\Debug\A133_Flag.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\obj\Debug\A133_Flag.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\obj\Debug\A133_Flag.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\obj\Debug\A133_Flag.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A133_Flag\obj\Debug\A133_Flag.pdb
