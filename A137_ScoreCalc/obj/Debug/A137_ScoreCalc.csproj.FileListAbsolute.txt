@@ -1,0 +1,9 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\bin\Debug\A137_ScoreCalc.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\bin\Debug\A137_ScoreCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\bin\Debug\A137_ScoreCalc.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\obj\Debug\A137_ScoreCalc.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\obj\Debug\A137_ScoreCalc.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\obj\Debug\A137_ScoreCalc.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\obj\Debug\A137_ScoreCalc.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\obj\Debug\A137_ScoreCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A137_ScoreCalc\obj\Debug\A137_ScoreCalc.pdb
