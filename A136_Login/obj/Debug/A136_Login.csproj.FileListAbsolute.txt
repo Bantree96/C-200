@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\bin\Debug\A136_Login.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\bin\Debug\A136_Login.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\bin\Debug\A136_Login.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\obj\Debug\A136_Login.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\obj\Debug\A136_Login.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\obj\Debug\A136_Login.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\obj\Debug\A136_Login.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\obj\Debug\A136_Login.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\obj\Debug\A136_Login.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A136_Login\obj\Debug\A136_Login.pdb
