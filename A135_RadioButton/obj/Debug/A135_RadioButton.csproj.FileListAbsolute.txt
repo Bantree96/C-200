@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\bin\Debug\A135_RadioButton.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\bin\Debug\A135_RadioButton.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\bin\Debug\A135_RadioButton.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\obj\Debug\A135_RadioButton.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\obj\Debug\A135_RadioButton.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\obj\Debug\A135_RadioButton.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\obj\Debug\A135_RadioButton.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\obj\Debug\A135_RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\obj\Debug\A135_RadioButton.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A135_RadioButton\obj\Debug\A135_RadioButton.pdb
