@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\bin\Debug\A138_MaskedTextBox.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\bin\Debug\A138_MaskedTextBox.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\bin\Debug\A138_MaskedTextBox.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\obj\Debug\A138_MaskedTextBox.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\obj\Debug\A138_MaskedTextBox.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\obj\Debug\A138_MaskedTextBox.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\obj\Debug\A138_MaskedTextBox.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\obj\Debug\A138_MaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\obj\Debug\A138_MaskedTextBox.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A138_MaskedTextBox\obj\Debug\A138_MaskedTextBox.pdb
