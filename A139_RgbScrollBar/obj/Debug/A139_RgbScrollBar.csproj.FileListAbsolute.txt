@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\bin\Debug\A139_RgbScrollBar.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\bin\Debug\A139_RgbScrollBar.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\bin\Debug\A139_RgbScrollBar.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.pdb
