@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\bin\Debug\A140_ListBox.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\bin\Debug\A140_ListBox.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\bin\Debug\A140_ListBox.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\obj\Debug\A140_ListBox.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\obj\Debug\A140_ListBox.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\obj\Debug\A140_ListBox.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\obj\Debug\A140_ListBox.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\obj\Debug\A140_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\obj\Debug\A140_ListBox.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A140_ListBox\obj\Debug\A140_ListBox.pdb
