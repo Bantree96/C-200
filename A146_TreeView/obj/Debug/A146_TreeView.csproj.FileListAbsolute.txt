@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\bin\Debug\A146_TreeView.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\bin\Debug\A146_TreeView.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\bin\Debug\A146_TreeView.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\obj\Debug\A146_TreeView.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\obj\Debug\A146_TreeView.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\obj\Debug\A146_TreeView.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\obj\Debug\A146_TreeView.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\obj\Debug\A146_TreeView.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\obj\Debug\A146_TreeView.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A146_TreeView\obj\Debug\A146_TreeView.pdb
