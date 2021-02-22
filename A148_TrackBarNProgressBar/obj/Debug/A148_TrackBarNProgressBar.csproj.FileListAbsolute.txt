@@ -1,0 +1,9 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\bin\Debug\A148_TrackBarNProgressBar.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\bin\Debug\A148_TrackBarNProgressBar.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\bin\Debug\A148_TrackBarNProgressBar.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.pdb
