@@ -35,7 +35,15 @@ namespace A144_ListView
             item1.SubItems.Add("22,000");
             item1.SubItems.Add("30");
             item1.SubItems.Add("660,000");
-            item1.SubItems.Add("1,660,000");
+            item2.SubItems.Add("22,000");
+            item2.SubItems.Add("30");
+            item2.SubItems.Add("660,000");
+            item3.SubItems.Add("22,000");
+            item3.SubItems.Add("30");
+            item3.SubItems.Add("660,000");
+            item4.SubItems.Add("22,000");
+            item4.SubItems.Add("30");
+            item4.SubItems.Add("660,000");
 
             myListView.Items.AddRange(new ListViewItem[] { item1, item2, item3, item4 });
 
@@ -57,6 +65,38 @@ namespace A144_ListView
             lImageList.Images.Add(Bitmap.FromFile(@"../../Image/ppt.png"));
             lImageList.Images.Add(Bitmap.FromFile(@"../../Image/word.png"));
 
+        }
+
+        private void rbDetail_CheckedChanged(object sender, EventArgs e)
+        {
+            myListView.View = View.Details;
+        }
+
+        private void rbList_CheckedChanged(object sender, EventArgs e)
+        {
+            myListView.View = View.List;
+        }
+
+        private void rbSmall_CheckedChanged(object sender, EventArgs e)
+        {
+            myListView.View = View.SmallIcon;
+        }
+
+        private void rbLarge_CheckedChanged(object sender, EventArgs e)
+        {
+            myListView.View = View.LargeIcon;
+        }
+
+        private void myListView_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            txtSelected.Text = "";
+            ListView.SelectedListViewItemCollection selected = myListView.SelectedItems;
+
+            foreach(ListViewItem item in selected)
+            {
+                for (int i = 0; i < 4; i++)
+                    txtSelected.Text += item.SubItems[i].Text + "\t";
+            }
         }
     }
 }

@@ -29,58 +29,62 @@ namespace A144_ListView
         /// </summary>
         private void InitializeComponent()
         {
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.radioButton4 = new System.Windows.Forms.RadioButton();
+            this.rbDetail = new System.Windows.Forms.RadioButton();
+            this.rbList = new System.Windows.Forms.RadioButton();
+            this.rbSmall = new System.Windows.Forms.RadioButton();
+            this.rbLarge = new System.Windows.Forms.RadioButton();
             this.myListView = new System.Windows.Forms.ListView();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtSelected = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // radioButton1
+            // rbDetail
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(69, 43);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(59, 16);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "자세히";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.rbDetail.AutoSize = true;
+            this.rbDetail.Location = new System.Drawing.Point(69, 43);
+            this.rbDetail.Name = "rbDetail";
+            this.rbDetail.Size = new System.Drawing.Size(59, 16);
+            this.rbDetail.TabIndex = 0;
+            this.rbDetail.TabStop = true;
+            this.rbDetail.Text = "자세히";
+            this.rbDetail.UseVisualStyleBackColor = true;
+            this.rbDetail.CheckedChanged += new System.EventHandler(this.rbDetail_CheckedChanged);
             // 
-            // radioButton2
+            // rbList
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(154, 43);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(59, 16);
-            this.radioButton2.TabIndex = 0;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "리스트";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.rbList.AutoSize = true;
+            this.rbList.Location = new System.Drawing.Point(154, 43);
+            this.rbList.Name = "rbList";
+            this.rbList.Size = new System.Drawing.Size(59, 16);
+            this.rbList.TabIndex = 0;
+            this.rbList.TabStop = true;
+            this.rbList.Text = "리스트";
+            this.rbList.UseVisualStyleBackColor = true;
+            this.rbList.CheckedChanged += new System.EventHandler(this.rbList_CheckedChanged);
             // 
-            // radioButton3
+            // rbSmall
             // 
-            this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(251, 43);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(87, 16);
-            this.radioButton3.TabIndex = 0;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "작은 아이콘";
-            this.radioButton3.UseVisualStyleBackColor = true;
+            this.rbSmall.AutoSize = true;
+            this.rbSmall.Location = new System.Drawing.Point(251, 43);
+            this.rbSmall.Name = "rbSmall";
+            this.rbSmall.Size = new System.Drawing.Size(87, 16);
+            this.rbSmall.TabIndex = 0;
+            this.rbSmall.TabStop = true;
+            this.rbSmall.Text = "작은 아이콘";
+            this.rbSmall.UseVisualStyleBackColor = true;
+            this.rbSmall.CheckedChanged += new System.EventHandler(this.rbSmall_CheckedChanged);
             // 
-            // radioButton4
+            // rbLarge
             // 
-            this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(376, 43);
-            this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(75, 16);
-            this.radioButton4.TabIndex = 0;
-            this.radioButton4.TabStop = true;
-            this.radioButton4.Text = "큰 아이콘";
-            this.radioButton4.UseVisualStyleBackColor = true;
+            this.rbLarge.AutoSize = true;
+            this.rbLarge.Location = new System.Drawing.Point(376, 43);
+            this.rbLarge.Name = "rbLarge";
+            this.rbLarge.Size = new System.Drawing.Size(75, 16);
+            this.rbLarge.TabIndex = 0;
+            this.rbLarge.TabStop = true;
+            this.rbLarge.Text = "큰 아이콘";
+            this.rbLarge.UseVisualStyleBackColor = true;
+            this.rbLarge.CheckedChanged += new System.EventHandler(this.rbLarge_CheckedChanged);
             // 
             // myListView
             // 
@@ -90,6 +94,7 @@ namespace A144_ListView
             this.myListView.Size = new System.Drawing.Size(405, 219);
             this.myListView.TabIndex = 1;
             this.myListView.UseCompatibleStateImageBehavior = false;
+            this.myListView.SelectedIndexChanged += new System.EventHandler(this.myListView_SelectedIndexChanged);
             // 
             // label1
             // 
@@ -100,25 +105,25 @@ namespace A144_ListView
             this.label1.TabIndex = 2;
             this.label1.Text = "Selected : ";
             // 
-            // textBox1
+            // txtSelected
             // 
-            this.textBox1.Location = new System.Drawing.Point(340, 318);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(124, 21);
-            this.textBox1.TabIndex = 3;
+            this.txtSelected.Location = new System.Drawing.Point(340, 318);
+            this.txtSelected.Name = "txtSelected";
+            this.txtSelected.Size = new System.Drawing.Size(124, 21);
+            this.txtSelected.TabIndex = 3;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(521, 378);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtSelected);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.myListView);
-            this.Controls.Add(this.radioButton4);
-            this.Controls.Add(this.radioButton3);
-            this.Controls.Add(this.radioButton2);
-            this.Controls.Add(this.radioButton1);
+            this.Controls.Add(this.rbLarge);
+            this.Controls.Add(this.rbSmall);
+            this.Controls.Add(this.rbList);
+            this.Controls.Add(this.rbDetail);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -129,13 +134,13 @@ namespace A144_ListView
 
         #endregion
 
-        private System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.RadioButton radioButton3;
-        private System.Windows.Forms.RadioButton radioButton4;
+        private System.Windows.Forms.RadioButton rbDetail;
+        private System.Windows.Forms.RadioButton rbList;
+        private System.Windows.Forms.RadioButton rbSmall;
+        private System.Windows.Forms.RadioButton rbLarge;
         private System.Windows.Forms.ListView myListView;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtSelected;
     }
 }
 
