@@ -1,0 +1,9 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\bin\Debug\A147_Timer.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\bin\Debug\A147_Timer.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\bin\Debug\A147_Timer.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\obj\Debug\A147_Timer.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\obj\Debug\A147_Timer.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\obj\Debug\A147_Timer.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\obj\Debug\A147_Timer.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\obj\Debug\A147_Timer.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A147_Timer\obj\Debug\A147_Timer.pdb
