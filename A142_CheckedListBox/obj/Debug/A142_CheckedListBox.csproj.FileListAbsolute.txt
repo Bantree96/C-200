@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\bin\Debug\A142_CheckedListBox.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\bin\Debug\A142_CheckedListBox.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\bin\Debug\A142_CheckedListBox.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\obj\Debug\A142_CheckedListBox.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\obj\Debug\A142_CheckedListBox.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\obj\Debug\A142_CheckedListBox.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\obj\Debug\A142_CheckedListBox.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\obj\Debug\A142_CheckedListBox.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\obj\Debug\A142_CheckedListBox.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A142_CheckedListBox\obj\Debug\A142_CheckedListBox.pdb
