@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\bin\Debug\A143_GradeCalc.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\bin\Debug\A143_GradeCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\bin\Debug\A143_GradeCalc.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\obj\Debug\A143_GradeCalc.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\obj\Debug\A143_GradeCalc.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\obj\Debug\A143_GradeCalc.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\obj\Debug\A143_GradeCalc.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\obj\Debug\A143_GradeCalc.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\obj\Debug\A143_GradeCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A143_GradeCalc\obj\Debug\A143_GradeCalc.pdb
