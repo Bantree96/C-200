@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\bin\Debug\A152_WMP.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\bin\Debug\A152_WMP.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\bin\Debug\A152_WMP.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\A152_WMP.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\A152_WMP.csproj.ResolveComReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\A152_WMP.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\A152_WMP.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\A152_WMP.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\A152_WMP.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\A152_WMP.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A152_WMP\obj\Debug\A152_WMP.pdb
