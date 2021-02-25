@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\bin\Debug\A155_GraphicsProgram.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\bin\Debug\A155_GraphicsProgram.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\bin\Debug\A155_GraphicsProgram.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.pdb
