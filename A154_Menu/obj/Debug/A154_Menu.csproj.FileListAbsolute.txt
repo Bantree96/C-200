@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\bin\Debug\A154_Menu.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\bin\Debug\A154_Menu.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\bin\Debug\A154_Menu.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\obj\Debug\A154_Menu.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\obj\Debug\A154_Menu.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\obj\Debug\A154_Menu.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\obj\Debug\A154_Menu.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\obj\Debug\A154_Menu.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\obj\Debug\A154_Menu.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A154_Menu\obj\Debug\A154_Menu.pdb
