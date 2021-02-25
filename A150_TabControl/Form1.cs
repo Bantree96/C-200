@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WMPLib; // WindowsMediaPlayer
 
 namespace A150_TabControl
 {
@@ -17,6 +18,7 @@ namespace A150_TabControl
         private DateTime tTime; // 알람 시간
         private bool setAlarm;  // 알람
 
+        WindowsMediaPlayer myPlayer = new WindowsMediaPlayer();
         public Form1()
         {
             InitializeComponent();
@@ -53,7 +55,8 @@ namespace A150_TabControl
                 if(dDay == DateTime.Today && cTime.Hour == tTime.Hour && cTime.Minute == tTime.Minute)
                 {
                     setAlarm = false;
-                    MessageBox.Show("Alarm!");
+                    myPlayer.URL = @"filepath\preview.mp3";
+                    myPlayer.controls.play();
 
                 }
             }
