@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\bin\Debug\A150_TabControl.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\bin\Debug\A150_TabControl.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\bin\Debug\A150_TabControl.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\obj\Debug\A150_TabControl.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\obj\Debug\A150_TabControl.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\obj\Debug\A150_TabControl.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\obj\Debug\A150_TabControl.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\obj\Debug\A150_TabControl.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\obj\Debug\A150_TabControl.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A150_TabControl\obj\Debug\A150_TabControl.pdb
