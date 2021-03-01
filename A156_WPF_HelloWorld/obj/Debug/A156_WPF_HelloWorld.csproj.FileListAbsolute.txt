@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\bin\Debug\A156_WPF_HelloWorld.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\bin\Debug\A156_WPF_HelloWorld.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\bin\Debug\A156_WPF_HelloWorld.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A156_WPF_HelloWorld\obj\Debug\A156_WPF_HelloWorld.pdb
