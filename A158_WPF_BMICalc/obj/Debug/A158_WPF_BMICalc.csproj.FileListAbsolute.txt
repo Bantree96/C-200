@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\bin\Debug\A158_WPF_BMICalc.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\bin\Debug\A158_WPF_BMICalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\bin\Debug\A158_WPF_BMICalc.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A158_WPF_BMICalc\obj\Debug\A158_WPF_BMICalc.pdb
