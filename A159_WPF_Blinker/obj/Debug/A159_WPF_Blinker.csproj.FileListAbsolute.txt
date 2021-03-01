@@ -1,0 +1,14 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\bin\Debug\A159_WPF_Blinker.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\bin\Debug\A159_WPF_Blinker.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\bin\Debug\A159_WPF_Blinker.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\A159_WPF_Blinker_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\A159_WPF_Blinker_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\A159_WPF_Blinker.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\A159_WPF_Blinker.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\A159_WPF_Blinker.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\A159_WPF_Blinker.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\A159_WPF_Blinker.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A159_WPF_Blinker\obj\Debug\A159_WPF_Blinker.pdb
