@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\bin\Debug\A163_WPF_Windows.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\bin\Debug\A163_WPF_Windows.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\bin\Debug\A163_WPF_Windows.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A163_WPF_Windows\obj\Debug\A163_WPF_Windows.pdb
