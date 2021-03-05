@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\bin\Debug\A164_WPF_DigitalClock.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\bin\Debug\A164_WPF_DigitalClock.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\bin\Debug\A164_WPF_DigitalClock.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A164_WPF_DigitalClock\obj\Debug\A164_WPF_DigitalClock.pdb
