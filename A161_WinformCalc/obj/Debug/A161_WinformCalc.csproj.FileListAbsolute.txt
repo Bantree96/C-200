@@ -1,0 +1,10 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\bin\Debug\A161_WinformCalc.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\bin\Debug\A161_WinformCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\bin\Debug\A161_WinformCalc.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\obj\Debug\A161_WinformCalc.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\obj\Debug\A161_WinformCalc.Form1.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\obj\Debug\A161_WinformCalc.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\obj\Debug\A161_WinformCalc.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\obj\Debug\A161_WinformCalc.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\obj\Debug\A161_WinformCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A161_WinformCalc\obj\Debug\A161_WinformCalc.pdb
