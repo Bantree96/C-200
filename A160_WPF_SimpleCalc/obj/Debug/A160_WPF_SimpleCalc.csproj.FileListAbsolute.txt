@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\bin\Debug\A160_WPF_SimpleCalc.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\bin\Debug\A160_WPF_SimpleCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\bin\Debug\A160_WPF_SimpleCalc.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc.csprojAssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A160_WPF_SimpleCalc\obj\Debug\A160_WPF_SimpleCalc.pdb
