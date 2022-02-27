@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\bin\Debug\A167_WPF_AnalogClock_Rotate.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\bin\Debug\A167_WPF_AnalogClock_Rotate.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\bin\Debug\A167_WPF_AnalogClock_Rotate.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate.csproj.AssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A167_WPF_AnalogClock_Rotate\obj\Debug\A167_WPF_AnalogClock_Rotate.pdb

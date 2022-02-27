@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\bin\Debug\A168_WPF_MonteCarloPI.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\bin\Debug\A168_WPF_MonteCarloPI.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\bin\Debug\A168_WPF_MonteCarloPI.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI.csproj.AssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A168_WPF_MonteCarloPI\obj\Debug\A168_WPF_MonteCarloPI.pdb
