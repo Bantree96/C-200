@@ -1,0 +1,15 @@
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\bin\Debug\A166_WPF_AnalogClock.exe.config
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\bin\Debug\A166_WPF_AnalogClock.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\bin\Debug\A166_WPF_AnalogClock.pdb
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock.csproj.AssemblyReference.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\MainWindow.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\App.g.cs
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock_MarkupCompile.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock_MarkupCompile.lref
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\MainWindow.baml
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock.g.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock.Properties.Resources.resources
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock.csproj.GenerateResource.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock.exe
+C:\Users\jiwon\source\repos\Bantree96\CS200\A166_WPF_AnalogClock\obj\Debug\A166_WPF_AnalogClock.pdb
